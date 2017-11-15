@@ -59,7 +59,7 @@ $lat1 TOSTRING + ' ' + $long1 TOSTRING +
 // Load one point for each fuel station data (Finistere)
 //
 
-[ $token 'data.fuel.france' { 'cp' '~29.*' 'type' 'gazole' } NOW -1 ] FETCH
+[ $token 'data.fuel' { 'cp' '~29.*' 'type' 'gazole' } NOW 10 d ] FETCH
 'set' STORE
 
 
@@ -90,6 +90,6 @@ $seriesSelected
 <%
     DROP
     'currentSeries' STORE
-    [ $token 'data.fuel.france' $currentSeries LABELS NOW NOW ] FETCH 0 GET
+    [ $token 'data.fuel' $currentSeries LABELS NOW NOW ] FETCH 0 GET
 %>
 LMAP

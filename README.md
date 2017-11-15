@@ -16,7 +16,7 @@ You will need to set-up a JVM, and then initialise Warp 10 as indicated in getti
 ## Push Fuel data set
 
 Once Warp 10 is running you can add the Fuel data that are stored in snapshot.mc2 file.
-To load them, just update the WRITE_TOKEN in the snapshot file (line 11). Then execute.
+To load them, just update the WRITE_TOKEN in the snapshot file (line 23). Then execute.
 
 ```
 curl -v http://127.0.0.1:8080/api/v0/exec --data-binary @snapshot.mc2
