@@ -5,6 +5,12 @@
 'READ_TOKEN'
 'token' STORE
 
+//
+// Current demo date
+//
+
+1510761515000000 'now' STORE
+
 
 //
 // Load Trajectory data
@@ -59,7 +65,7 @@ $lat1 TOSTRING + ' ' + $long1 TOSTRING +
 // Load one point for each fuel station data (Finistere)
 //
 
-[ $token 'data.fuel' { 'cp' '~29.*' 'type' 'gazole' } NOW 10 d ] FETCH
+[ $token 'data.fuel' { 'cp' '~29.*' 'type' 'gazole' } $now 10 d ] FETCH
 'set' STORE
 
 
@@ -90,6 +96,6 @@ $seriesSelected
 <%
     DROP
     'currentSeries' STORE
-    [ $token 'data.fuel' $currentSeries LABELS NOW NOW ] FETCH 0 GET
+    [ $token 'data.fuel' $currentSeries LABELS $now $now ] FETCH 0 GET
 %>
 LMAP
