@@ -1,0 +1,95 @@
+//
+// Set auhtentification
+//
+
+'READ_TOKEN'
+'token' STORE
+
+
+//
+// Load Trajectory data
+//
+
+'60VFS5xmRMK_AbCkOLKZAaSkRlg1X.FiNM0k0bGjRb4pOF8dO10WOYSXOI8aNqBpCLNsCaJmDLC_C2W_CIKYNYC_BnBpBGP8sRLkcjjIfPZ04cy2aAAtn9rd7Wg..4N.5AVM6sg7.........1pMTInKPGSzoMrfKM8dNPdMLgPochrJC2qKmYI348MUftfEI5xOLZOIPP9rQCTPHxlR9Q7j_r9jAPvxLawZW81FXplvZepXUgxtthzjttnjyIvbbDRwtlZpzWUfx7GboFDnSAiErh8J9wczY7qDDfOZvr7ms_qi2bQ7TmUIf_O4thjqI3qQ4zCgW8BrJnl58WHGWLHdnInJkfClwbActkGNcyDxrLoinV5wmkn.4MPjU9a9IXvF3_sjxDEOB3IIcGDGXHlogbzKeQBI.f09ujpXnM0Q0byQwPT72SmGQuTb405pkifFxuUq.MSnpTFPGCpATISQBl.JdUa8E0JNCocHTmCgy0.NSJN3IHcYeXKFEWhxt4paXDd1Vmsk1eYH2ACSHVQVa8IfBea7gPclh9GiAnW5_uHxJZ0JNxsgfJCvFKH9HuAYsyL7XYdUyLhMBcY9XzTFfoDJwztWiQc157anyPs9aDdHHhkSknQ.FVeUfBLmv3u_atvF0jPDN7zEn5_D51IeE_JXuPmdgROyttUuz9mV2ymS_RyYtXAeMBC0ypWUN5ftuAkT5povEA6d_oH.mXJiCn5tem_QHQqSb6auSs.W4rkeqC258mbiS4yAe9tUL_whM.pTfSCEb61eu2avPzkgdm0RF5dnK731cfUdEnQfjFXXr5AtChYes9l2bSUvkUCdKTdbGHNCxCqYVHElvc2KpSLikqQE2BxTCEc15jk2UKkOfYAjutrL_L2ZAMbUdsmhTcChynvD0PjGriHQX0tLMzWZxbkkmdkeYpR9OxVQQOxLy6X1fWvrjAL7IjBxMO2h.KsYjM5DX3sN_j2Tgw3fcu9o4kGkx4_uXqD8.Aav5mD.Jr_ydRxXbZpsj3CTWRxuG0wCL8BxOmEEd_pyJl22bpG3h4vGXYLbHFTt4vc59a9XhMwTKwYRIgfimO_JlVTTSRSZcMBGZ2R9DxRYPYWufjIOB2GKHlH6_AqYu5AIH2osIfWtm23OKM2bAzPTxs0K4saRk3uNKYqMMk8ZASn7HJ3xJn1GA30ntqocaC2QtlXXFdErMv_c2ss4srLDa1jhfDCCala.TjEQOQVHK24SCEz2Pt78bxch507_2iLU7NbsZhnjV9XsOAohHgeFnzQRXV.qcW8xUxqqNVLNwAA9Qm3eSq7wMpR9TTWBTfR4GrhQMhcMUNsoKLt8CuDlxhE.fTfU7KON.XR5nX7vhitNcWMZsNh6jmtqv0vppPwl.uuRlXbT0cmKrqWTB5y7M4rlZ.v2xJtklSVGVE8v3eOPK9peOwYs1J.mjnIu9X5eNJoW9rNzlDhEAxE6E4rqYnPbQHPrnQro6CBh_8DczaVYVSeU0IOQN4LqcjWO4OeVu_4kjokOqpoCTlXM7kCOlIE_ddYhl7M1KVrHGZa2lJi5SG4_j7I_SthZ8gSAkaKDQM45bjIu7X1GEU5BmIuQxOB0xHGt3KljGiXdyQTLrii00Aiz1CO2p5oSuU7nKW1fV0THmF9SDPhtIz7WqBWfcGLLqLOgznKb5J2CZF35UZRFfUAVZ.Or6XWr_qUKkYopYE4Ob_N4QBCt4Ld2icVyzQQnCoZ_GBmJ8it3h92VQSM4fyGyjtPlgNpIsNu58raVgvitEqJGcgzMlXlsv.d7VmIQEp303kpjLexEYEf6qJmbpqhzEHT2GZldSZdb1_BkzayzwMa3i_9c1dpN56E8dFaVh1dzUGWAHVrUTQV0oKHLMBl1p8A6fCMYLy.cvQ7LKLlZgE5E_GU9sHFCcLqscdPtIbyNIEL2bpTMQs_..KZLt_ZtvEZ02iRafolWZ9uZRpsHBdg2z4gOfyPzccFREm.PiSRAfP4K5ubul0WgBZ7Ug86_y6Wti2cEG2vzp1PiWmazUr2Xzg3x8AxHeGtqj9xgt_NeVWBvRUcNF9IXnQiuYRGz85UXJxAXnsBSda0H9d.kLKdvMmuDYV1Pc46bIMWeuNaFsjUEFK8gWogqXs_5azYfP5yE0.byfysfNwY7FrROIP7pUaYPWDV2evArqlg0KLj650hI0GsnhrOn.5YBApk7IU2vfZYlpHuVQyK9Sq7e5nGIOBVWVueIesPh6gYvvCDLFW9HWbCknJrbvCXOEJ8Hrd.1x7idzmnMbVMooo_mb2nPlDA7sQs0V572OwFFwTXLpUJuUCAbEhEBcFyJAPpsBFC.SM26OZIjGwZ5Pxm7V.sW5ssMbUtt3Q__6Gb87hntx2OhwlSTbZ2TwR0p4yvCfOvEqkyb._KfT.U2fM6Xf6HODK0xPUS8KR0yel8jMt3t.WQFwocCoyxg5fFJGk0xhm.9weuYKEBI8tHB0BwugFJTVSBLS5Ns2OWvM1nqd1Pu2LJMm2YAeMiobKZAKcLigzoAQB86lhLlIHyfPoSI3J0IM9Qki2i5vC9T5jC0UBvVL8R.9uEsPBCygnSFG3zzuWwFtQyiOy34Iq.EXOH9aDvb6l4mCkmHrAY5ABOJAVrM1_q80DwECKgGtP.LEIuiGoQ1uB1rL.8xvjrBRi7Lwf9THAYuGtq0IWW7ZAFvvwLFgpQedkBvkLkosOsuWZv6A4g_zF1P0.DlcZL7yWybQh4u.UGlwyUcwsX9aAE8WBiB7DO0nBlerNexRgPJiElsJdgrcm2nlTlhAnyN.03rBGmrUrEys7qhO7EXnXHOkKjMb5K94s9.YexY750cgse2uZ77CyqJZB6ZN90aqUL6uR.JZditV6ZpHxFP37hRauPinQYAtaM5qPK3VJq5v26nnC.e7zBqDj084NPARu.KK1RTnEblarwqbDvhX8szj3AMG.T.c9G7SJI8Rqpypks3fy1DwU8uUCacIvhUnNZf0I0Lp9TDaKYJwdoCt1crYwMhOOWL51IR3z7iBoh0KNJ7BZtfnnQgYQh3XjTesIm5pdxtJp4k5e09baVnQZPCajmQ9fTV5Kiabmr0KZiIjtz_DGxZxQmBALBWajqf1ZTjbjGED_RIywoyEpzlocyZNuim.iOXQ9bpFOLwK80pCy4l9YDOhKtUSIqHFwOMTmVsUfjwcbQA931_mRA2DD256_Lfr9pZPmqwfsbc4GdvQQCiZWaU3T5la2_BsjwhUX0TfKCS5dWcbo_Talp4j97sll1xcx579pt86fbcWp_BTABqmOfe6Y8WmwGmE2ndkx4GT_TjkEsZ5MhfV5YYumwDhio57w4FtYew9ObUolWztJi5dvBoZwa.iPMPQsP9RAFVYsYAXAsoywIbB1uZd6W3O7HOApyNfzAIJm.9Htny0dzgqfH2Ilyt65B_YkEl5Z3vneZm1ho7bZxABVpkECgpi_O2XaH0U0acXwbgLXPKth_0k6XMB8zYXEOvm2ZdEFly3z9aQv1GjutjiTVHG0mR2Yu1cNSRiMalC_W_WbkZGvvYduEdwO1oOzfQ9XNlp0pWR2cMJdJa5LNmUi4iFnTQz4r53_c24E0wBsnJXWWH0mfzLi_AT.mqrcYGULF13RU37OdNj3byRIMW9_8FyJBju7Fx0Rwrq833ldOm_m2P7E.O_zoPz78Z_Hz7QBvtC6092UVnmYlhBQIvGqhSLF.cnU_PPRPFiqQkPnw0iTTnCtekHQF661mxHrQZd0GjIIlr4RxgyWaXpSpzmk0PbEj2P.lB8CJG8t_ihHxkqLB9C8qtQhukpRcDt5uX_RaJIrqCeP_wOLq_hUQZtT5Ea20U8RDKFwDZvN8PUMc3A2mNQvD4v.r4OBnMwRJgvEbbxfe2WMrZIl0QlbnfjajeQDJz75xoJuojn3.CoyEzhGO2l.2E30nGRXI6e9eHE8lDffsKqBkmmEWHtGUmJr1A3LVXHsEIe5Na.Us.b_LdMZfcd7TIK1hg.iuvoo.Fj_RbXZNyW4rSzBzH8mtbxj6YOSxKSRQNZF6Qr9r0PATcIbprSAJIyQ0lGYrkM28rLdHcwwsOC.VuJlNmOgUoXzOSBx7buqyZIkbTZbxdpE09zanvCoNxcQSN2k..4eF23F.' UNWRAP
+
+//
+// Get last tick values
+//
+
+DUP FIRSTTICK ATTICK
+'lastValues' STORE
+
+//
+// Get longitude
+//
+
+$lastValues 1 GET 'long' STORE
+
+//
+// And latitude
+//
+$lastValues 2 GET 'lat' STORE
+
+//
+// Generate geo shape setting 5 km around current lat and long
+//
+
+3000 'meters' STORE
+$meters 0.0000089 * 'coef' STORE
+
+$lat $coef + 'lat0' STORE
+$lat $coef - 'lat1' STORE
+
+$lat 0.018 * COS 'cos' STORE
+
+$long $coef $cos / + 'long0' STORE
+$long $coef $cos / - 'long1' STORE
+
+'POLYGON ((' 
+$lat1 TOSTRING + ' ' + $long1 TOSTRING + 
+', ' + $lat0 TOSTRING + ' ' + $long1 TOSTRING +
+', ' + $lat0 TOSTRING + ' ' + $long0 TOSTRING +
+', ' + $lat1 TOSTRING + ' ' + $long0 TOSTRING +
+', ' + $lat1 TOSTRING + ' ' + $long1 TOSTRING +
+' ))' +
+
+0.1 true GEO.WKT 'shape' STORE
+
+//
+// Load one point for each fuel station data (Finistere)
+//
+
+[ $token 'data.fuel.france' { 'cp' '~29.*' 'type' 'gazole' } NOW -1 ] FETCH
+'set' STORE
+
+
+//
+// Get all station in the area
+//
+
+[ $set $shape mapper.geo.within 0 0 0 ] MAP
+NONEMPTY
+
+//
+// Sort to get cheapest value
+//
+
+LASTSORT
+
+//
+// Get top 5
+//
+
+[ 0 4 ] SUBLIST 'seriesSelected' STORE
+
+//
+// Load complete history data for the current series
+//
+
+$seriesSelected
+<%
+    DROP
+    'currentSeries' STORE
+    [ $token 'data.fuel.france' $currentSeries LABELS NOW NOW ] FETCH 0 GET
+%>
+LMAP
